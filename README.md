@@ -4,6 +4,8 @@
 
 ![t800](https://github.com/user-attachments/assets/b957c0d0-741b-4e83-a9db-2fa06efc3cf4)
 
+[![YouTube video](https://img.youtube.com/vi/ZwOiLTB75l0/0.jpg)](https://www.youtube.com/shorts/ZwOiLTB75l0?feature=share)
+
 ## Детали схемы
 Электронная начинка лёгко умещается в недрах черепа и состоит из:
 1. Контроллера Arduino. 
